@@ -5,7 +5,7 @@ The structure is organised here so there can be one installation of reveal.js (i
 1. Copy the _crate_template_ folder and rename it to something useful to you.
 2. Make your changes, if you want to use an reveal styles you will need to keep the paths the same, i.e. one directory above
 3. Anything specific to this presentation, keep in the folder. There are further instructions in the template files.
-4. To serve your presentation, run `grunt serve --presentation=crate_template/index.html` at the top level
+4. To serve your presentation, run `grunt serve --presentation=crate_template/index.html` at the top level, changing the path appropriately.
 5. Your browser will automatically open to the root level and you should see your presentation folder, click it to serve your presentation (I will fix this).
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
