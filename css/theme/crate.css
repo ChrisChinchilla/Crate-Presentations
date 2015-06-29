@@ -25,14 +25,15 @@
 body,
 .reveal {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 38px;
+  font-size: 32px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #000000;
   background-color: #ffffff;
 }
 
-body .reveal .white {
+body .reveal .white,
+body .reveal .white h2 {
   color: #fff;
 }
 
