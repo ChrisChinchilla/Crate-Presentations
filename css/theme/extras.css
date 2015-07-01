@@ -6,6 +6,7 @@
 
 .right-align {
   float:right;
+  text-align:left;
   width:50%;
 }
 
@@ -15,4 +16,10 @@
 
 .reveal ul {
   margin-bottom:30px;
+}
+
+/* TODO: Generalise the left below */
+.reveal code {
+  white-space: pre-line;
+  text-align: left;
 }
